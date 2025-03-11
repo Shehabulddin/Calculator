@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library xmlns="http://example.org/jk/library">
+	<book title="1984" year="1946" language="ENG">
+		<author>
+			<name >
+				George
+			</name>
+			<lastname>
+				Orwell
+			</lastname>
+		</author>
+	</book>
+	<book title="Heroes of Olympus" year="2013" language="ENG">
+		<author>
+			<name >
+				Rick
+			</name>
+			<name >
+				Rob
+			</name>
+			<lastname>
+				Riordan
+			</lastname>
+		</author>
+	</book>
+	<book title="Harry potter" year="2005" language="ENG">
+		<author>
+			<name >
+				JK
+			</name>
+			<lastname>
+				Rowling
+			</lastname>
+		</author>
+	</book>
+</library>
